@@ -9,4 +9,4 @@ RUN pip install pipenv
 RUN pip install jupyter
 RUN pipenv install --dev
 RUN pipenv install ipykernel
-RUN pipenv run python -m ipykernel install --user --name='libropython'
+RUN pipenv run python -m ipykernel install --user --name='frank927'
