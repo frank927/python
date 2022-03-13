@@ -10,7 +10,7 @@
         },
         "sources": [
             {
-                "name": "pypi",
+                "name": "frank927",
                 "url": "https://pypi.org/simple",
                 "verify_ssl": true
             }
