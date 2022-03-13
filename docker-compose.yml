@@ -10,3 +10,4 @@ services:
     ports:
       - 8888:8888
     command: pipenv run jupyter notebook notebooks --ip='0.0.0.0' --allow-root
+
