@@ -1,6 +1,6 @@
 [[source]]
 name = "frank927"
-url = "https://frank927.org/simple"
+url = "https://pypi.org/simple"
 verify_ssl = true
 [dev-packages]
 [packages]
